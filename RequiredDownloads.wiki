@@ -8,12 +8,18 @@ These are the pieces I've been using.
 
 = Details =
 
-[http://wix.sourceforge.net WiX] (Windows Installer XML) beta 3.5 version
-Visual Studio 2010 (Express – includes a free version of SQL Server express)
-TeamCity
-TortoiseHG / Mercurial (see HgInit for a great tutorial)
-SubSonic (v2, not v3)
-MSBuild
-MbUnit 3 (Gallio)
+[http://wix.sourceforge.net/ WiX] (Windows Installer XML) beta 3.5 version (I chose the latest weekly build that was still 3.5, not 3.6) Also, I am operating on the assumption that Votive is desired/required.
+
+[http://www.microsoft.com/express/Downloads/ Visual Studio 2010] (Express – includes a free version of SQL Server express)
+
+http://www.jetbrains.com/teamcity/ TeamCity]
+
+[http://tortoisehg.bitbucket.org/ TortoiseHG and Mercurial] (see HgInit for a great tutorial)
+
+[http://www.subsonicproject.com/ SubSonic (v2, not v3)]
+
+[http://msdn.microsoft.com/en-us/library/0k6kkbsd.aspx MSBuild] Fairly sure this comes with MS Visual Studio...
+
+[http://www.gallio.org/ MbUnit 3] (Gallio)
  
 All of these tools can be downloaded for free via the links provided.
