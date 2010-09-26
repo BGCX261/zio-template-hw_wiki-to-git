@@ -1,0 +1,19 @@
+#summary Link page to all the downloads needed.
+#labels Phase-Implementation,Phase-Requirements,Phase-Design
+
+= Introduction =
+
+These are the pieces I've been using.
+
+
+= Details =
+
+[http://wix.sourceforge.net WiX] (Windows Installer XML) beta 3.5 version
+Visual Studio 2010 (Express – includes a free version of SQL Server express)
+TeamCity
+TortoiseHG / Mercurial (see HgInit for a great tutorial)
+SubSonic (v2, not v3)
+MSBuild
+MbUnit 3 (Gallio)
+ 
+All of these tools can be downloaded for free via the links provided.
