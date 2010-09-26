@@ -12,7 +12,7 @@ These are the pieces I've been using.
 
 [http://www.microsoft.com/express/Downloads/ Visual Studio 2010] (Express – includes a free version of SQL Server express)
 
-http://www.jetbrains.com/teamcity/ TeamCity]
+[http://www.jetbrains.com/teamcity/ TeamCity]
 
 [http://tortoisehg.bitbucket.org/ TortoiseHG and Mercurial] (see HgInit for a great tutorial)
 
